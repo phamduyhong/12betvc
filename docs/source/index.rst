@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+12bet mobile | Nhà cái 12bet - Link 12 bet đăng nhập chuẩn nhất - 12bet.vc
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`12bet <https://12bet.vc/>`_ là huyền thoại nhà cái cá cược online uy tín số một tại Việt Nam năm 2024. Được thành lập vào 12/12/2007 tại Anh Quốc. 12 bet nổi bật với sản phẩm Cá cược thể thao, Casino online và sở hữu hơn 120 sản phẩm game online hấp dẫn khác như Xổ Số Lô Đề Online, Game đổi thưởng trực tuyến,… Truy cập nhà cái 12bet và nhận thưởng 120K ngay.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+12bet.vc là website đại diện chính thức của nhà cái 12bet tại Việt Nam.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 33T9 Hẻm F12, Tổ 10, Bình Chánh, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0985448411. 
 
-.. toctree::
+Email: info@12bet.vc. 
 
-   usage
-   api
+Website: https://12bet.vc/
+
+#12bet #nhacai12bet #trangchu12bet #12betvc #link12bet
