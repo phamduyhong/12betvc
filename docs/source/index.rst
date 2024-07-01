@@ -15,4 +15,6 @@ Email: info@12bet.vc.
 
 Website: https://12bet.vc/
 
+Author: https://12bet.vc/blv-huynh-phuong/
+
 #12bet #nhacai12bet #trangchu12bet #12betvc #link12bet
